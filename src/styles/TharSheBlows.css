@@ -1,0 +1,9 @@
+.tharsheblows {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tharsheblows img {
+    width: 250px;
+    height: 250px;
+}
